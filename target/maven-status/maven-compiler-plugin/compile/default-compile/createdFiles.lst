@@ -1,0 +1,6 @@
+com\testAOP\aspect\LoggingAspect.class
+com\testAOP\AopMain.class
+com\testAOP\service\ShapeService.class
+com\testAOP\model\Circle.class
+com\testAOP\model\Triangle.class
+com\testAOP\aspect\Loggable.class
